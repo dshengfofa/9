@@ -1,0 +1,27 @@
+﻿                <li><a href="">大正新修大藏经首页</a></li>
+		<li><a href="?url2=0" target="_left">阿含部</a></li>
+		<li><a href="?url2=1" target="_left">本缘部</a></li>
+		<li><a href="?url2=2" target="_left">般若部</a></li>
+		<li><a href="?url2=3" target="_left">法华部</a></li>
+		<li><a href="?url2=4" target="_left">华严部</a></li>
+		<li><a href="?url2=5" target="_left">宝积部</a></li>
+		<li><a href="?url2=6" target="_left">涅槃部</a></li>
+		<li><a href="?url2=7" target="_left">大集部</a></li>
+		<li><a href="?url2=8" target="_left">经集部</a></li>
+		<li><a href="?url2=9" target="_left">密教部</a></li>
+		<li><a href="?url2=10" target="_left">在家律</a></li>
+		<br>
+		<li><a href="?url2=11" target="_left">释经论部</a></li>
+		<li><a href="?url2=12" target="_left">毘昙部</a></li>
+		<li><a href="?url2=13" target="_left">中观部</a></li>
+		<li><a href="?url2=14" target="_left">瑜伽部</a></li>
+		<li><a href="?url2=15" target="_left">论集部</a></li>
+		<li><a href="?url2=16" target="_left">经疏部</a></li>
+		<li><a href="?url2=17" target="_left">论疏部</a></li>
+		<li><a href="?url2=18" target="_left">诸宗部</a></li>
+		<li><a href="?url2=19" target="_left">史传部</a></li>
+		<li><a href="?url2=20" target="_left">事汇部</a></li>
+		<li><a href="?url2=21" target="_left">外教部</a></li>
+		<li><a href="?url2=22" target="_left">目录部</a></li>
+		<li><a href="?url2=23" target="_left">古逸部</a></li>
+		<li><a href="?url2=24" target="_left">疑似部</a></li>
