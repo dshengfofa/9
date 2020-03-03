@@ -1,0 +1,18 @@
+                <li><a href="?url=0">阿含部</a></li>
+			<li><a href="?url=1">事汇部·外教部·目录部</a></li>
+			<li><a href="?url=2">史传部</a></li>
+			<li><a href="?url=3">诸宗部</a></li>
+			<li><a href="?url=4">律疏部·论疏部</a></li>
+			<li><a href="?url=5">经疏部</a></li>
+			<li><a href="?url=6">论集部</a></li>
+			<li><a href="?url=7">中观部·瑜伽部</a></li>
+			<li><a href="?url=8">释经论部·毗昙部</a></li>
+			<li><a href="?url=9">律部</a></li>
+			<li><a href="?url=10">密教部</a></li>
+			<li><a href="?url=11">经集部</a></li>
+			<li><a href="?url=12">大集部</a></li>
+			<li><a href="?url=13">宝积部·涅槃部</a></li>
+			<li><a href="?url=14">法华部·华严部</a></li>
+			<li><a href="?url=15">般若部</a></li>
+			<li><a href="?url=16">本缘部</a></li>
+			<li><a href="?url=17">古逸部·疑似部</a></li>
